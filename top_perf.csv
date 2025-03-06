@@ -1,0 +1,21 @@
+hours_studied,attendance,parental_involvement,access_to_resources,extracurricular_activities,sleep_hours,previous_scores,motivation_level,internet_access,tutoring_sessions,family_income,teacher_quality,school_type,peer_influence,physical_activity,learning_disabilities,parental_education_level,distance_from_home,gender,exam_score
+27,98,Low,Medium,Yes,6,93,Low,No,5,High,High,Public,Positive,3,No,High School,Moderate,Female,101
+18,89,High,Medium,Yes,4,73,Medium,Yes,3,High,Medium,Private,Positive,2,No,College,Near,Female,100
+23,83,High,High,Yes,4,89,Low,Yes,1,Medium,Medium,Public,Negative,3,No,High School,Far,Male,99
+14,90,High,High,Yes,8,86,Medium,Yes,4,Medium,Medium,Private,Negative,2,No,High School,Near,Female,99
+28,96,High,Low,Yes,4,98,High,Yes,1,High,High,Public,Positive,3,No,High School,Near,Male,98
+16,83,Low,Medium,Yes,8,92,Low,Yes,2,High,High,Public,Positive,4,No,Postgraduate,Near,Female,98
+28,90,Low,Medium,Yes,9,91,Medium,Yes,0,Medium,Medium,Public,Positive,2,No,College,Moderate,Female,98
+25,99,Medium,Medium,Yes,7,77,Medium,Yes,0,High,High,Public,Neutral,3,No,High School,Near,Male,97
+21,74,High,Medium,No,6,94,Medium,Yes,1,Low,High,Public,Positive,1,No,High School,Near,Male,97
+15,83,Medium,Medium,No,7,97,Medium,Yes,2,Low,High,Private,Neutral,2,No,High School,Near,Female,97
+18,93,Medium,Medium,No,7,76,Low,Yes,2,Medium,Medium,Private,Neutral,4,No,High School,Near,Female,96
+18,90,High,High,Yes,6,54,Low,Yes,1,Medium,High,Public,Negative,3,No,High School,Near,Female,95
+21,67,Medium,Medium,Yes,6,88,Medium,Yes,1,Low,Medium,Private,Positive,5,No,Postgraduate,Near,Female,95
+24,96,Low,High,No,6,93,Medium,Yes,2,Low,Medium,Public,Neutral,2,No,High School,Moderate,Female,94
+29,76,Medium,Medium,No,8,96,Low,Yes,2,Low,Medium,Public,Positive,2,No,Postgraduate,Moderate,Male,94
+19,90,Medium,High,Yes,5,90,Low,Yes,0,Low,Medium,Public,Neutral,2,No,College,Far,Female,94
+25,98,Medium,Medium,Yes,7,90,High,Yes,1,High,Low,Public,Neutral,4,No,Postgraduate,Near,Male,94
+26,69,High,High,No,7,95,Low,No,0,Medium,Medium,Public,Negative,3,No,Postgraduate,Near,Female,93
+25,73,Medium,Medium,Yes,7,56,Medium,Yes,2,High,Medium,Public,Neutral,4,No,High School,Near,Female,93
+1,88,Medium,High,Yes,4,72,High,Yes,3,Medium,Medium,Private,Negative,2,No,College,Near,Male,92
