@@ -139,6 +139,7 @@ Attendance rate isn’t influenced by any of the variables in the dataset. This 
 Attendance rate for top performers is higher if teacher quality is higher. This however is not enough evidence to extend the belief that higher teaching quality equals higher attendance rate as the top performers group consist of 20 students,
 Family income and school type don’t necessarily lead to higher teaching quality. Good teachers can be equally found no matter the social status and school attended.
 
+
 Mirko Caroleo
 
 
